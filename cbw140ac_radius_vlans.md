@@ -184,7 +184,7 @@ works: `May 10 13:41:14.967: [ERROR] apf_policy.c 5210: Either Vlan Name id Temp
 
 ### Setting QoS, etc
 
-If you append (dictionary.airespace)[https://github.com/retailnext/node-radius/blob/master/test/dictionaries/dictionary.airespace]
+If you append [dictionary.airespace](https://github.com/retailnext/node-radius/blob/master/test/dictionaries/dictionary.airespace)
 to `/etc/freeradius/3.0/dictionary` then you can provide other attributes such as
 ACL names and QoS values with Radius.
 
